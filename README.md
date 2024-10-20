@@ -1,16 +1,41 @@
-## Hi there 👋
+> [!WARNING]
+> ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯<br>
+> **69%** ```Loading Brain Cells...```
 
-<!--
-**kuran1x/kuran1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm a self-taught Full-Stack dev from Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+### About myself
+   ➥ <br>
+   ➥ <br>
+   
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning:<br>
+Python<br>
+HTML<br>
+CSS<br>
+Javascript<br>
+
+Working on:
+
+---
+<p>
+   <img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/images/HTML.png">
+   <img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/images/CSS.png">
+   <img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/images/JS.png">
+</p>
+
+---
+
+![Chris's Stats](https://github-readme-stats.vercel.app/api?username=kuran1x&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide=issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuran1x&layout=donut&theme=ambient_gradient&hide_border=true&langs_count=6)
+
+
+
+```
+  ____                  ____                       __      __    __ 
+ / __ \___  ___ ___    / __/__  __ _____________   | | /| / /__ / / 
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_)  | |/ |/ / -_) _ \
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/   |__/|__/\__/_.__/
+    /_/ 
+```            
+
