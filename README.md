@@ -26,10 +26,11 @@ Working on:
 </p>
 
 ---
-
-![Chris's Stats](https://github-readme-stats.vercel.app/api?username=kuran1x&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide=issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuran1x&layout=donut&theme=ambient_gradient&hide_border=true&langs_count=6)
-
-
+<div align="center">
+   
+![Chris's Stats](https://github-readme-stats.vercel.app/api?username=kuran1x&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuran1x&theme=ambient_gradient&hide_border=true&layout=compact)
+</div>
 
 ```
   ____                  ____                       __      __    __ 
