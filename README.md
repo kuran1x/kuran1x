@@ -2,7 +2,12 @@
 > ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯<br>
 > **69%** ```Loading Brain Cells...```
 
-Kill streak: 3 <img height="13" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
+<p>
+   Kill streak: 
+   <img height="13" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
+   <img height="13" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
+   <img height="13" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
+</p>
 <p>
    <img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/HTML.png">
    <img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/CSS.png">
