@@ -22,6 +22,5 @@ Some stuff I made: <br>
 
    <img height="60" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/achievement.png">
 
-![](https://img.shields.io/github/stars/kuran1x?style=social)
 </div>
  
