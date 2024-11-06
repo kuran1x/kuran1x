@@ -1,4 +1,4 @@
-8> [!WARNING]
+> [!WARNING]
 > ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯<br>
 > **69%** ```Loading Brain Cells...```
 
@@ -24,4 +24,4 @@ Some stuff I made: <br>
 
 ![](https://img.shields.io/github/stars/kuran1x?style=social)
 </div>
- hello
+ 
