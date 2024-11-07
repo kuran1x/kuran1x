@@ -25,7 +25,7 @@ Some stuff I made: <br>
    
 <div align="center">   
 
-   [<img height="60" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/achievement.png">](kuran1x.carrd.co)
+   [<img height="60" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/achievement.png">](https://kuran1x.carrd.co||blank)
 
 </div>
  
