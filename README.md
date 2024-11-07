@@ -14,6 +14,10 @@
    <img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/JS.png">
 </p>
 
+<details "Stuff I use"> <summary>Stuff I use</summary> <p>hello</p>
+</details>
+
+
 Some stuff I made: <br>
       ➥ <br>
       ➥ <br>
