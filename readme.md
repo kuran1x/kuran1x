@@ -5,7 +5,7 @@
 
 <details "Kill streak">
    <summary> 
-       Kill streak: 
+       Kill streak: 
       <img height="13" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
       <img height="13" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
       <img height="13" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
