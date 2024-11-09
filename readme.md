@@ -10,6 +10,7 @@
       <img height="13" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
       <img height="13" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
       <img height="13" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
+      <img height="13" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
    </summary> 
    <p> <br>
       <a href="https://en.wikipedia.org/wiki/HTML"><img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/HTML.png"></a>
