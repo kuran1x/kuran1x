@@ -12,10 +12,11 @@
       <img height="13" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
    </summary> 
    <p> <br>
-      <img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/HTML.png">
-      <img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/CSS.png">
-      <img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/JS.png">
-      <img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/TailwindCSS.png">
+      <a href="https://en.wikipedia.org/wiki/HTML"><img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/HTML.png"></a>
+      <a href="https://en.wikipedia.org/wiki/CSS"><img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/CSS.png"></a>
+      <a href="https://en.wikipedia.org/wiki/JavaScript"><img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/JS.png"></a>
+      <a href="https://tailwindcss.com"><img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/TailwindCSS.png"></a>
+      <a href="https://svelte.dev/"><img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/Svelte.png"></a>
       <br>
    </p>
 </details>
