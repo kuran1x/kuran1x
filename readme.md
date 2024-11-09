@@ -6,7 +6,7 @@
    <summary> 
       Kill streak: 
       <img height="14" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
-      <img height="14" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skyll.png">
+      <img height="14" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
       <img height="14" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
       <img height="14" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
       <img height="14" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/skull.png">
