@@ -1,6 +1,6 @@
 > [!WARNING]
 > ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯<br>
-> **69%** ```Loading Brain Cells...```
+> **69%** ```Loading Brain Cells<img height="14" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/partyblob.png">...```
 
 <details "Kill streak">
    <summary> 
