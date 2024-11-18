@@ -28,7 +28,7 @@ Some stuff I made: <br>
    
 <div align="center">   
 
-   [<img height="60" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/achievement.png">](https://www.lunarclient.com/tools/achievement-generator)
+   <img height="60" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/achievement.png">
 
 </div>
  
