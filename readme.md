@@ -32,4 +32,4 @@ Some stuff I made: <br>
 
 </div>
  
-[![notext](https://github-readme-activity-graph.vercel.app/graph?username=kuran1x)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
