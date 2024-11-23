@@ -17,18 +17,6 @@
    </p> </div>
 </details>
 
-<details "stats">
-   <summary> 
-   Statistics📈
-   </summary> 
-   <p>
-      stasr:
-      [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   </p>
-</details>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 Some stuff I made: <br>
       ➥ <br>
       ➥ <br>
