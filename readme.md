@@ -6,7 +6,7 @@
    <summary> 
       My Skills <img src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/partyblob.gif" height="18">
    </summary> 
-   <p> <div height="top">
+   <p> <div height="top" align="bottom">
       <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/JS.png"></a>
       <a href="https://www.typescriptlang.org" title="TypeScript"><img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/TS.png"></a>
       <a href="https://tailwindcss.com" title="Tailwind CSS"><img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/TailwindCSS.png"></a>
