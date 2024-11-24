@@ -4,7 +4,7 @@
 
 <details "skills">
    <summary> 
-      My Skills <img src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/partyblob.gif" height="18">
+      My Skills <img src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/partyblob.gif" height="18" align="center">
    </summary> 
    <p> <div height="top">
       <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img height="25" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/JS.png"></a>
