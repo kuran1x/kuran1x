@@ -1,4 +1,4 @@
-0> [!WARNING]
+> [!WARNING]
 > ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯<br>
 > **69%** ```Loading Brain Cells...```
 
