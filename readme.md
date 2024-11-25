@@ -21,9 +21,7 @@ Some stuff I made: <br>
    
 <div align="center">   
 
-
-
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuran1x&theme=nord" height="130">
+   <img height="60" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/achievement.png">
    
 </div>
  
