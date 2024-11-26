@@ -36,7 +36,7 @@ Some stuff I made: <br>
    
 <div align="center">   
 
-   <a href="https://www.lunarclient.com/tools/achievement-generator"><img height="60" src="https://raw.githubusercontent.com/kuran1x/kuran1x/main/assets/achievement.png"></a>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuran1x&theme=react-dark&hide_border=true&hide_title=true&bg_color=0D1117&height=340" height="165">
    
 </div>
  
