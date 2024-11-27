@@ -21,7 +21,7 @@ Some stuff I made: <br>
       ➥ <br>
 <div align="center">   
 
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuran1x&theme=react-dark&hide_border=true&hide_title=true&bg_color=0D1117&height=340&line=81e2fc&point=f0fcff" height="165" align="middle">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuran1x&theme=react-dark&hide_border=true&hide_title=true&bg_color=0D1117&height=340&point=f0fcff" height="165" align="middle">
    
 </div>
  
