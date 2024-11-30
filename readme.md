@@ -23,8 +23,6 @@ Some stuff I made: <br>
 
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuran1x&theme=react-dark&hide_border=true&hide_title=true&bg_color=0D1117&height=340&point=f0fcff" height="165" align="middle">
    
-![](https://komarev.com/ghpvc/?username=KuraN1X&label=Views)
-<img src="https://img.shields.io/github/stars/KuraN1X?logo=operagx"> 
 </div>
  
 
