@@ -13,7 +13,7 @@
       <a href="https://svelte.dev/" title="Svelte"><img height="25" src="./assets/Svelte.png"></a> 
       <a href="https://nodejs.org/" title="Node.js"><img height="25" src="./assets/NodeJS.png"></a> 
       <br>
-   </p> </div>
+   </p> <img src="https://img.shields.io/github/stars/KuraN1X?logo=git&logoColor=272727"></div>
 </details>
 
 Some stuff I made: <br>
