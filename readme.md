@@ -23,7 +23,7 @@ Some stuff I made: <br>
    
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kuran1x&theme=react-dark&hide_border=true&hide_title=true&bg_color=0D1117&height=335&point=f0fcff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kuran1x&theme=react-dark&hide_border=true&hide_title=true&bg_color=FFFFFF&height=335&point=f0fcff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kuran1x&theme=react-dark&hide_border=true&hide_title=true&bg_color=FFFFFF&height=335&point=008ab0">
   <img alt="github contribution grid snake animation" src="https://github-readme-activity-graph.vercel.app/graph?username=kuran1x&theme=react-dark&hide_border=true&hide_title=true&bg_color=0D1117&height=335&point=f0fcff">
 </picture>
 </div>
