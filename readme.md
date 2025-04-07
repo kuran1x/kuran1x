@@ -16,7 +16,7 @@
    </p> <img src="https://img.shields.io/github/stars/KuraN1X?logo=git&logoColor=272727"></div>
 </details>
 
-Some stuff I made: <br>
+Some stuff I made: 📂<br>
       ➥ <br>
       ➥ <br>
 <div align="center">   
